@@ -4,6 +4,9 @@
   <img align="left" alt="Gil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br/>
+<br/>
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on [Artefact](https://github.com/balsigergil/artefact), a Content Management System like WordPress.
