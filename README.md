@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on [Artefact](https://github.com/balsigergil/artefact), a Content Management System like WordPress.
 - 🌱 I’m currently learning OpenGL and game engine programming.
 - :school: I'm currently studying security engineering.
-- 💬 Ask me about anything ;)
 
 **Languages and Tools:**  
 
