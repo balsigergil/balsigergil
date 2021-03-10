@@ -9,8 +9,8 @@
 
 **Talking about Personal Stuffs:**
 
-- :moneybag: I'm currently working on [Y-Coin](https://github.com/Y-Coin/Y-Coin), a secure and ecological blockchain.
-- 🔭 I’m also working on [Artefact](https://github.com/balsigergil/artefact), a Content Management System like WordPress (but better).
+- :moneybag: I'm currently working on [Spaceframe](https://github.com/spaceframeos/spaceframe), a secure and ecological blockchain.
+<!-- - 🔭 I’m also working on [Artefact](https://github.com/balsigergil/artefact), a Content Management System like WordPress (but better). -->
 - 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust).
 - :spider_web: I'm intrested in web technologies and web development.
 - :school: I'm currently studying security engineering.
