@@ -3,14 +3,20 @@
   <h1 align="center">Hi there 👋, I'm Gil Balsiger!</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=I'm+a+High+School+computer+science+student;Computer+graphics+enthousiast;Full+Stack+Developer;Love+learning+new+things" alt="Typing SVG" />
   <div>
-    <a href="https://www.linkedin.com/in/gil-balsiger">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <a href="https://www.linkedin.com/in/gil-balsiger" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/gilbalsiger">
-      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://twitter.com/gil_balsiger" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://twitter.com/gil_balsiger">
-      <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" />
+    <a href="https://www.instagram.com/gilbalsiger" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://gitlab.com/balsigergil" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/12774145/gil-balsiger" target="_blank">
+      <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
     </a>
   </div>
   <div>
