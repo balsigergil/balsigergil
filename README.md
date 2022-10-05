@@ -87,22 +87,3 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=balsigergil&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsigergil&langs_count=8&layout=compact&theme=dark" />
 </div>
-
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/gil-balsiger">
-  <img align="left" alt="Gil's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/gil_balsiger">
-  <img align="left" alt="Gil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/gilbalsiger">
-  <img align="left" alt="Gil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/instagram.svg" />
-</a>
-<a href="https://gitlab.com/balsigergil">
-  <img align="left" alt="Gil's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/gitlab.svg" />
-</a>
-<a href="https://stackoverflow.com/users/12774145/gil-balsiger">
-  <img align="left" alt="Gil's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/stackoverflow.svg" />
-</a>
-
