@@ -31,7 +31,7 @@
 ## 💫 Talking about Personal Stuffs
 
 - 📚 I have a Bachelor in Cybersecurity from the HEIG-VD School of Engineering and Management in Switzerland
-- 🎓 I'm currently working on my Master thesis
+- 🎓 I'm currently working on my Master of Science Thesis
 - 🌱 I’m currently learning OpenGL and Computer Graphics
 - 🏫 I'm currently studying [Medical image computing](https://en.wikipedia.org/wiki/Medical_image_computing)
 - 💬 Ask me about Rust, React and Cybersecurity
