@@ -48,6 +48,7 @@
   ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F44D27.svg?style=for-the-badge&logo=git&logoColor=white)
   ![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -83,7 +84,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=balsigergil&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=balsigergil&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balsigergil&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balsigergil&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsigergil&langs_count=8&layout=compact&theme=dark&hide=csharp,hlsl,shaderlab" />
 </div>
