@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.webp" width="200"/>
   <h1 align="center">Hi there 👋, I'm Gil Balsiger!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADBAC7&center=true&width=500&lines=I'm+a+High+School+computer+science+student;Computer+graphics+enthousiast;Full+Stack+Developer;Love+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=I'm+a+High+School+computer+science+student;Computer+graphics+enthousiast;Full+Stack+Developer;Love+learning+new+things" alt="Typing SVG" />
   <div>
     <a href="https://www.linkedin.com/in/gil-balsiger">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
