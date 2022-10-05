@@ -85,5 +85,5 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=balsigergil&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=balsigergil&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsigergil&langs_count=8&layout=compact&theme=dark?hide=csharp,hlsl,shaderlab" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsigergil&langs_count=8&layout=compact&theme=dark&hide=csharp,hlsl,shaderlab" />
 </div>
