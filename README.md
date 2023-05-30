@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.webp" width="200"/>
   <h1 align="center">Hi there 👋, I'm Gil Balsiger!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=I'm+a+High+School+computer+science+student;Computer+graphics+enthousiast;Full+Stack+Developer;Love+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=I'm+a+Cybersecurity+Engineer;Full+Stack+Software+Developer;Computer+Graphics+Enthousiast;Love+learning+new+things" alt="Typing SVG" />
   <div>
     <a href="https://www.linkedin.com/in/gil-balsiger" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,13 +30,12 @@
 
 ## 💫 Talking about Personal Stuffs
 
-- 📚 I have a Bachelor in Cybersecurity from the HEIG-VD School of Engineering and Management in Switzerland
-- 🎓 I'm currently working on my Master of Science Thesis
-- 🌱 I’m currently learning OpenGL and Computer Graphics
-- 🏫 I'm currently studying [Medical image computing](https://en.wikipedia.org/wiki/Medical_image_computing)
-- 💬 Ask me about Rust, React and Cybersecurity
+- 📚 I have a Bachelor (BSc) and a Master (MSc) in computer science from the HES-SO School of Engineering in Switzerland
+- 🎓 I'm currently looking for a job in cybersecurity or software development
+- 🌱 I’m currently learning computer graphics and biotechnologies
+- 💬 Ask me about Rust, web development, cybersecurity and much more
 - 📫 Reach me at gil.balsiger@gmail.com
-- 🌞 My main hobbies are 🏸 Badminton and 📷 Photography
+- 🌞 My main hobbies are 🏸 Badminton and 📷 Photography and 🎹 Music
 
 ## 🛠️ Languages and Tools
 
