@@ -28,7 +28,7 @@
 ## 💫 Talking about Personal Stuffs
 
 - 📚 I have a Bachelor's and a Master's degree in computer science from the HES-SO School of Engineering in 🇨🇭 Switzerland
-- 🎓 I'm currently working at [Climkit](https://github.com/climkit) as a software engineer
+- 🎓 I'm currently working at [Climkit](https://climkit.io) as a software engineer
 - 🖌️ I learn and develop various things about computer graphics in my spare time
 - 💬 Ask me about Rust, web development, cybersecurity and much more
 - 📫 Reach me at gil.balsiger@gmail.com
