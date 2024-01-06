@@ -84,7 +84,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balsigergil&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balsigergil&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsigergil&langs_count=8&layout=compact&theme=dark&hide=csharp,hlsl,shaderlab" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balsigergil&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=My%20GitHub%27s%20Stats&theme=transparent">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balsigergil&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsigergil&langs_count=8&layout=compact&theme=transparent">
 </div>
