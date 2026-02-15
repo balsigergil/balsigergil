@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.webp" width="200"/>
   <h1 align="center">Hi there 👋, I'm Gil Balsiger!</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=Full+Stack+Software+Developer;Cybersecurity+Engineer;Computer+Graphics+Enthousiast;Love+learning+new+things" alt="Typing SVG" />
 </div>
