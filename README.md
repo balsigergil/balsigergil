@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi there 👋, I'm Gil Balsiger!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=Full+Stack+Software+Developer;Cybersecurity+Engineer;Computer+Graphics+Enthousiast;Love+learning+new+things" alt="Typing SVG" />
+  <h1 align="center">Hi there 👋, My name is Gil Balsiger!</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=C9D1D9&center=true&width=500&lines=Full+Stack+Software+Developer;Cybersecurity+Engineer;Computer+Graphics+Enthousiast;Love+learning+new+things;Love+sharing+knowledge" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -9,15 +9,14 @@
 ## 💫 Talking about Personal Stuffs
 
 - 🎓 I have a Bachelor's and a Master's degree in computer science from the HES-SO School of Engineering in Switzerland
-- 💼 I'm currently working at [Climkit](https://www.climkit.io) as lead software developer
-- 🖌️ I learn and develop various things about web development and computer graphics
-- 💬 Ask me about Rust, Python, web development, cybersecurity and much more
-- 📫 Reach me at gil.balsiger@gmail.com
+- 💼 I'm currently working at [Climkit](https://www.climkit.io) as lead developer
+- 🖌️ I learn and explore various topics related to web development, system programming, computer graphics and more...
+- 💬 Ask me about Rust, Python, web development, cybersecurity and much more...
 - 🌞 My main hobbies are 🏸 badminton and 📷 photography and 🎹 music
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-### Software and Tools:
+### Software & Tools:
 
 <div align="center">
   
@@ -47,7 +46,7 @@
   
 </div>
 
-### Tech, Frameworks and Libraries:
+### Frameworks & Libraries:
 
 <div align="center">
   
@@ -61,4 +60,27 @@
   ![Laravel](https://img.shields.io/badge/laravel-EF3F30.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![OpenGL](https://img.shields.io/badge/opengl-5586A4.svg?style=for-the-badge&logo=opengl&logoColor=white)
   
+</div>
+
+### Tech & DevOps:
+
+<div align="center">
+  
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 </div>
